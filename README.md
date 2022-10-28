@@ -7,4 +7,4 @@ Tracking demo:
 <img src="./figures/Tracking_Demo.png" width="400" height="300" />
 ## Training Network
 Data preparation:
-Download [FENet108](https://zhangjiqing.com/dataset/ "Google")  dataset
+Download FENet108: <https://zhangjiqing.com/dataset/>
