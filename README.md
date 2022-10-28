@@ -8,6 +8,9 @@ Tracking demo:
 
 # Training Network
 
-Data preparation:
+1. Download [FENet108](https://zhangjiqing.com/dataset/)
+2. Data transformation via python Data_transfer.py
+3. Then train the network with sh train.sh
 
-Download [FENet108](https://zhangjiqing.com/dataset/)
+
+# Network Inference
