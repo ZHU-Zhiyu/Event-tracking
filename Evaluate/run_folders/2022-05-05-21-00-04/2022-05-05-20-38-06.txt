@@ -1,0 +1,27 @@
+=> merge config from /home/zhu_19/evt_tracking/Evt_Swin/configs/swin_tiny_patch4_window7_224.yaml
+error
+error
+error
+error
+error
+error
+error
+error
+error
+error
+error
+error
+error
+error
+error
+error
+error
+error
+error
+error
+error
+error
+error
+error
+RAW box max:300.4191525830332,min:11.273154320931411
+RAW box max:13750054.500463959,min:-10846155.436303373
