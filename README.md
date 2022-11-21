@@ -15,4 +15,5 @@ Tracking demo:
 
 # Network Inference
 
-You can download our preded boxes from [here](https://drive.google.com/drive/folders/1YOu1EsOw32cPXrZ4v4bXuHBDnNByBNE7?usp=sharing).
+You can download pretrained model from [here](https://drive.google.com/drive/folders/1YOu1EsOw32cPXrZ4v4bXuHBDnNByBNE7?usp=sharing).
+You can download our predicted boxes from [here](https://drive.google.com/drive/folders/1YOu1EsOw32cPXrZ4v4bXuHBDnNByBNE7?usp=sharing).
